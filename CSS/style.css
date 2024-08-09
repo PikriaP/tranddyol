@@ -117,7 +117,7 @@ text-align: left;
 
 
 }
-h1 {
+h2 {
     color: var(--titlefontcolor);
 font-size: 38px;
 font-weight: 500;
@@ -142,6 +142,7 @@ justify-content: baseline;
 table tr, td, th {
     border: 1px solid #666666; 
     padding: 5px 30px ;
+    margin-bottom: 40px;
 }
 table svg{
     width: 30px;
