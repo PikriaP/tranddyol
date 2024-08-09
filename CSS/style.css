@@ -99,6 +99,7 @@ width: 1240px;
 height: 200px;
 margin-left: 100px;
 margin-bottom: 60px;
+margin-top: 40px;
 color: var(--fontcolorBlack);
 font-family: "Roboto Condensed", sans-serif;
    font-size: 22px;
@@ -129,9 +130,7 @@ text-align: left;
 width: 905px;
 height: 239px;
 margin-top: 60px;
-margin-bottom: 41px;
-gap: 0px;
-opacity: 0px;
+margin-bottom: 50px;
 margin: 0 auto;
 border: 1px solid #666666; 
 padding: 8px;
@@ -149,6 +148,21 @@ table svg{
     height: 30px;
     border-radius: 70px;
     padding: 5px 30px ;
+}
+.text-wrapper p{
+    margin: 15px;
+}
+h1{
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 44.53px;
+    text-align: left;
+    font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  margin-top: 30px;
+    
+
+
 }
 
 
