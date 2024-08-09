@@ -125,15 +125,29 @@ line-height: 44.53px;
 text-align: left;
 
 }
-table{
+.table{
 width: 905px;
 height: 239px;
-top: 800px;
-left: 270px;
+margin-top: 60px;
+margin-bottom: 41px;
 gap: 0px;
 opacity: 0px;
-background-color: #F27A1A;
-
+margin: 0 auto;
+border: 1px solid #666666; 
+padding: 8px;
+text-align: baseline;
+justify-content: baseline;
 
 }
+table tr, td, th {
+    border: 1px solid #666666; 
+    padding: 5px 30px ;
+}
+table svg{
+    width: 30px;
+    height: 30px;
+    border-radius: 70px;
+    padding: 5px 30px ;
+}
+
 
